@@ -1,0 +1,7 @@
+# If any changes in the contract do this before migrating
+truffle compile
+
+
+# For migration DO this
+If any error make you gas limit to more than 80Lakhs on ganache 
+truffle migrate --reset

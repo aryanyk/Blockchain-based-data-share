@@ -75,6 +75,26 @@ docs/_build/
 .pybuilder/
 target/
 
+backend/contract/
+blockchain/build/contracts/
+# Ignore all files in this repository
+*
+
+# But NOT these files (so they are tracked)
+!.gitignore
+!README.md
+
+# Optionally, do not ignore these folders (if you want to keep them tracked)
+!backend/
+!blockchain/
+!frontend/
+
+# If you want to keep requirements.txt, unignore it
+!backend/requirements.txt
+
+# If you want to keep this file, unignore it
+!cmds.txt
+
 # Jupyter Notebook
 .ipynb_checkpoints
 

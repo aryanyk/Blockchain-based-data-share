@@ -8310,12 +8310,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x4D7961E6c840B94ee778211dF543a89b121Fbc6c",
-      "transactionHash": "0xbadaa7d21933f399eeba6bab9beb7df420515364c91ebf6d220c2978f89f7f43"
+      "address": "0x59a1ef4aCAfE06584384c6285Bfa6C4c7d7e8f44",
+      "transactionHash": "0x285144e8c0a3794faaa217c064ee94bb09b691fc58cb2c08a51d60c8a26698a4"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-06-30T12:44:16.947Z",
+  "updatedAt": "2025-06-30T20:35:09.131Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
