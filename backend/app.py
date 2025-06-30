@@ -15,7 +15,7 @@ web3.eth.default_account = web3.eth.accounts[0]
 with open("contract/ConsentNFT.json") as f:
     abi = json.load(f)['abi']
 
-contract_address = "0xYourContractAddressHere"  # Replace with actual
+contract_address = "0x4D7961E6c840B94ee778211dF543a89b121Fbc6c"  # Replace with actual
 contract = web3.eth.contract(address=contract_address, abi=abi)
 
 # ------------------------------------------
